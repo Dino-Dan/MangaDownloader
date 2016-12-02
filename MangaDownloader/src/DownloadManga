@@ -1,0 +1,14 @@
+Creator: Daniyal
+Idea Originated from Sakeeb
+
+Sakeeb told me he created a program to download manga from a website
+and saved it into a folder, I wanted to create a similar program. I'll
+be trying to make this is as many languages as possible, as it is very
+simple script.
+
+Concept Idea #1
+Feed it the link of the first page of the manga, and from there it
+will try to generate the link for the next page using TWO LOOPS;
+First try with a while loop for the next PAGE until the program
+crashes. Second try with a while loop for the next CHAPTER until the
+program crashes. 
